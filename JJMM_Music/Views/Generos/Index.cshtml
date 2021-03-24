@@ -1,0 +1,39 @@
+﻿@model IEnumerable<JJMM_Music.Models.Genero>
+
+@{
+    ViewData["Title"] = "Gêneros";
+}
+
+<h1><kbd>Gêneros </kbd></h1>
+
+<p>
+    <a asp-action="Create">Adicionar gênero</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Gênero
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeGenero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.IdGenero" class="btn btn-default">Acessar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

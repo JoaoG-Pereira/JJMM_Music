@@ -1,0 +1,53 @@
+﻿@model JJMM_Music.Models.Album
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>@Model.Titulo</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Título
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt>
+            Ano
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ano)
+        </dd>
+        <dt>
+            Banda
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdBandaNavigation.NomeBanda)
+        </dd>
+    </dl>
+</div>
+<div>
+    @{
+        /*string SELECT = string.Format("SELECT id_musica from Musica where id_album = " + Model.IdAlbum + ";");
+        SqlConnection conn = new SqlConnection("Data Source=DESKTOP-EI2ONBG\\SQLEXPRESS;Initial Catalog=;Persist Security Info=True;User ID=;Password=");
+        conn.Open();
+
+        SqlCommand command = new SqlCommand(SELECT, conn);
+
+        using (SqlDataReader reader = command.ExecuteReader())
+        {
+            if (reader.Read())
+            {
+                <a>Oi</a>
+            }
+        }
+
+        conn.Close(); */
+    }
+    <a asp-action="Edit" asp-route-id="@Model.IdAlbum">Editar</a> |
+    <a asp-action="Edit" asp-route-id="@Model.IdAlbum">Deletar</a> |
+    <a asp-action="Index">Voltar</a>
+</div>

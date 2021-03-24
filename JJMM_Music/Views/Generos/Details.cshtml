@@ -1,0 +1,30 @@
+﻿@model JJMM_Music.Models.Genero
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+    <h2>@Html.DisplayFor(model => model.NomeGenero)</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Gênero
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NomeGenero)
+        </dd>
+        <dt>
+            Descrição
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdGenero">Editar</a> |
+    <a asp-action="Delete" asp-route-id="@Model.IdGenero">Deletar</a> |
+    <a asp-action="Index">Voltar</a>
+</div>

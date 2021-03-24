@@ -1,0 +1,57 @@
+﻿@model IEnumerable<JJMM_Music.Models.Musica>
+
+@{
+    ViewData["Title"] = "Music Player";
+}
+
+    <h1><kbd>Music Player</kbd></h1>
+
+<p>
+    <a asp-action="Create">Adicionar música</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Título
+            </th>
+            <th>
+                Ano de lançamento
+            </th>
+            <th>
+                Duração
+            </th>
+            <th>
+                Álbum
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ano)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Duracao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdAlbumNavigation.Titulo)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.IdMusica" class="btn btn-default">Tocar <i class="fa fa-play-circle"style="font-size: 17px"></i></a>
+                </td>
+                <td>
+                    <a href=@Html.DisplayFor(modelItem => item.Link) target="_blank" class="btn btn-default">Ver no Youtube <i class="fa fa-youtube-play" aria-hidden="true" style="font-size: 17px; color: red"></i></a>
+                </td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>

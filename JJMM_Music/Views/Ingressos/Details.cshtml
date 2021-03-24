@@ -1,0 +1,42 @@
+﻿@model JJMM_Music.Models.Ingresso
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ingresso</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Setor)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Setor)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Valor)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Valor)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IdShowNavigation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdShowNavigation.IdShow)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdIngresso">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

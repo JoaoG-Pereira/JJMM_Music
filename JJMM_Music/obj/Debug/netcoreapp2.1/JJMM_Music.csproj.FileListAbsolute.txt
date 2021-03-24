@@ -1,0 +1,129 @@
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.deps.json
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.runtimeconfig.json
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.runtimeconfig.dev.json
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.dll
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.pdb
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.Views.dll
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.Views.pdb
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.csprojAssemblyReference.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.csproj.CoreCompileInputs.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorAssemblyInfo.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorAssemblyInfo.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.AssemblyInfoInputs.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.AssemblyInfo.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.TagHelpers.input.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.TagHelpers.output.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorCoreGenerate.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Create.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Delete.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Details.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Edit.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Index.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Create.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Delete.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Details.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Edit.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Index.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Create.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Delete.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Details.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Edit.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Index.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Create.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Delete.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Details.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Edit.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Index.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Create.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Delete.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Details.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Edit.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Index.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Create.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Delete.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Details.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Edit.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Index.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorTargetAssemblyInfo.cache
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorTargetAssemblyInfo.cs
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.Views.pdb
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.dll
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.pdb
+C:\Users\João Guilherme\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.csproj.CopyComplete
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.deps.json
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.runtimeconfig.json
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.runtimeconfig.dev.json
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.dll
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.pdb
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.Views.dll
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\bin\Debug\netcoreapp2.1\JJMM_Music.Views.pdb
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.csprojAssemblyReference.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.AssemblyInfoInputs.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.AssemblyInfo.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorAssemblyInfo.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorAssemblyInfo.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.TagHelpers.input.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.TagHelpers.output.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorCoreGenerate.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Create.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Delete.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Details.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Edit.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Albuns\Index.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Create.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Delete.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Details.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Edit.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Artistas\Index.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Create.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Delete.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Details.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Edit.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Bandas\Index.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Create.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Delete.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Details.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Edit.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Generos\Index.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Create.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Delete.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Details.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Edit.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Ingressos\Index.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Create.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Delete.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Details.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Edit.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Musicas\Index.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorTargetAssemblyInfo.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.RazorTargetAssemblyInfo.cs
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.Views.pdb
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.dll
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.pdb
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.genruntimeconfig.cache
+C:\Users\João\Documents\IF\Projetos\Projeto LP3\JJMM_Music\obj\Debug\netcoreapp2.1\JJMM_Music.csproj.CopyComplete

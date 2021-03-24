@@ -1,0 +1,57 @@
+﻿@using System.Data.SqlClient;
+@model JJMM_Music.Models.Musica
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>@Html.DisplayFor(model => model.Titulo)</h2>
+
+<div>
+    <hr />
+    @{
+        string link = Model.Link;
+        link.Replace("https://www.youtube.com/watch?v=", "https://www.youtube.com/embed/");
+
+    }
+    <iframe width="800" height="500" src=@link frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <hr />
+    <h3 class="caption">Sobre a música</h3>
+    <dl class="dl-horizontal">
+        <dt>
+            Título
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt>
+            Banda
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdAlbumNavigation.IdBandaNavigation.NomeBanda)
+        </dd>
+        <dt>
+            Álbum
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdAlbumNavigation.Titulo)
+        </dd>
+        <dt>
+            Ano
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ano)
+        </dd>
+        <dt>
+            Duração
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Duracao) segundos
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdMusica">Editar</a> |
+    <a asp-action="Delete" asp-route-id="@Model.IdMusica">Deletar</a> |
+    <a asp-action="Index">Voltar</a>
+</div>

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<JJMM_Music.Models.Artista>
+
+@{
+    ViewData["Title"] = "Artistas";
+}
+
+    <h1><kbd>Artistas</kbd></h1>
+
+<p>
+    <a asp-action="Create">Registrar artista</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                Instrumento
+            </th>
+            <th>
+                Idade
+            </th>
+            <th>
+                Nacionalidade
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th>
+                Banda
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instrumento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pais)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdBandaNavigation.NomeBanda)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.IdBanda" class="btn btn-default">Acessar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

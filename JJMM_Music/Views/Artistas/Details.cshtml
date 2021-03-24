@@ -1,0 +1,54 @@
+﻿@model JJMM_Music.Models.Artista
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>@Model.Nome</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nome
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            Instrumento
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Instrumento)
+        </dd>
+        <dt>
+            Idade
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idade) anos
+        </dd>
+        <dt>
+            País
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pais)
+        </dd>
+        <dt>
+            Descrição
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt>
+            Banda
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdBandaNavigation.NomeBanda)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdArtista">Editar</a> |
+    <a asp-action="Delete" asp-route-id="@Model.IdArtista">Deletar</a> |
+    <a asp-action="Index">Voltar</a>
+</div>

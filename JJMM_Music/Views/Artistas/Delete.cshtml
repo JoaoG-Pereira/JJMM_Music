@@ -1,0 +1,57 @@
+﻿@model JJMM_Music.Models.Artista
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Deletar o perfil de @Model.Nome ?</h3>
+<div>
+    <h4>Artista</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nome
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            Instrumento
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Instrumento)
+        </dd>
+        <dt>
+            Idade
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+        <dt>
+            País
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pais)
+        </dd>
+        <dt>
+           Descrição
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt>
+            Banda
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IdBandaNavigation.NomeBanda)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdArtista" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
